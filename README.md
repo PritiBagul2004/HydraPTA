@@ -148,9 +148,7 @@ pytest tests/ -v
 
 ---
 
-## Project Attribution
 
-This repository is a separately maintained copy published by [PritiBagul2004](https://github.com/PritiBagul2004). The original HydraPTA project was created by [Suhani G](https://github.com/suhanig08); this copy is maintained with the original author's permission. Original technical content and implementation are retained unless explicitly modified.
 
 ## Future Work
 
